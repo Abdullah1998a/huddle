@@ -1,5 +1,5 @@
-import { Feature } from "../feature";
 import { features } from "../../data/features";
+import { Feature } from "../feature";
 
 export default function Features() {
   return (

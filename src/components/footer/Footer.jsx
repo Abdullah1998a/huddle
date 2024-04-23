@@ -17,7 +17,7 @@ const slideRightVariants = {
 };
 const personal = {
   name: "Abdullah Alnoime",
-  website: "#",
+  website: "https://abdullah-alnoime.netlify.app",
 };
 export default function Footer() {
   return (

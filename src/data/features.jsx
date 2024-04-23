@@ -1,5 +1,5 @@
-import illustrationGrowTogether from "../assets/images/illustration-grow-together.svg";
 import illustrationFlowingConversation from "../assets/images/illustration-flowing-conversation.svg";
+import illustrationGrowTogether from "../assets/images/illustration-grow-together.svg";
 import illustrationYourUsers from "../assets/images/illustration-your-users.svg";
 
 export const features = [
