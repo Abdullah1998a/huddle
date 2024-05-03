@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Preview
 
-![Preview for the Huddle landing page with alternating feature blocks coding challenge](./src/assets/design/desktop-preview.jpg)
+![Huddle landing page coding challenge](./src/assets/design/desktop-preview.jpg)
 
 ### Links
 
